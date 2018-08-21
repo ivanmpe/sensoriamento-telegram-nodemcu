@@ -4,9 +4,9 @@
 #include "DHT.h"
 
 // Initialize Wifi connection to the router
-#define WIFI_SSID "Winter is Coming"
-#define WIFI_PASSWORD "985090300"
-#define BOTtoken "600697851:AAHL4mGw8OdXNPxCPYVmi967awRV4V02rTU"  // Seu token do telegram
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define BOTtoken ""  // Seu token do telegram
 
 
 #define PIN_D0 D0
